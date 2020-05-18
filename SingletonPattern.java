@@ -1,4 +1,4 @@
-// ¶öººÊ½µ¥Àı
+//  é¥¿æ±‰å¼å•ä¾‹
 class HungerSingletonPattern
 {
 	private static HungerSingletonPattern a_incetance = new HungerSingletonPattern();
@@ -8,7 +8,7 @@ class HungerSingletonPattern
 	}
 }
 
-// ÀÁººÊ½µ¥Àı
+//  æ‡’æ±‰å¼å•ä¾‹
 class LazySingletonPattern
 {
 	private static LazySingletonPattern a_incedtance = null;
