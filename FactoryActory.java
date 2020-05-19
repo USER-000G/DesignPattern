@@ -37,6 +37,6 @@ class FactoryActoryDemo
 	public static void main(String args[]) {
 		FactoryActory factoryActory = new ConcreteFactory();
 		Product product = factoryActory.factory(ConcreteProduct.class);
-		// ÒµÎñ´úÂë
+		// ä¸šåŠ¡ä»£ç 
 	}
 }
